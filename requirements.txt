@@ -1,0 +1,7 @@
+ipywidgets==8.1.6
+matplotlib==3.9.4
+pylatexenc==2.10
+qiskit==2.0.0
+qiskit-aer==0.17.0
+qiskit-qasm3-import==0.5.1
+seaborn==0.13.2
