@@ -3,5 +3,6 @@ matplotlib==3.9.4
 pylatexenc==2.10
 qiskit==2.0.0
 qiskit-aer==0.17.0
+qiskit-ibm-runtime==0.40.1
 qiskit-qasm3-import==0.5.1
 seaborn==0.13.2
