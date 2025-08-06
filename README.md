@@ -8,17 +8,18 @@ This repository contains small experiments and implementations of foundational q
 * [Controlled Gates](notebooks/controlled_gates.ipynb)
 * [SWAP Gates](notebooks/swap_gates.ipynb)
 
-## Entanglement
+## Multi-Qubit States
 
 * [Bell States](notebooks/bell_states.ipynb)
 * [GHZ States](notebooks/ghz_staates.ipynb)
 * [W States](notebooks/ghz_w_staates.ipynb)
 * [Density Matrix](notebooks/density_matrix.ipynb)
-* [CHSH Game](notebooks/chsh_game.ipynb)
 
-## Teleportation
+## Entanglement in Actions
 
 * [Teleportation](notebooks/teleportation.ipynb)
+* [Superdense Coding](notebooks/superdense_coding.ipynb)
+* [CHSH Game](notebooks/chsh_game.ipynb)
 
 ## Installation (If you want to run the notebooks)
 
