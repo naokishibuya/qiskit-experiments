@@ -7,15 +7,16 @@ This repository contains small experiments and implementations of foundational q
 * [Single Qubits](notebooks/single_qubits.ipynb)
 * [Controlled Gates](notebooks/controlled_gates.ipynb)
 * [SWAP Gates](notebooks/swap_gates.ipynb)
+* [Measurements](notebooks/measurements.ipynb)
 
-## Multi-Qubit States
+## Entanglements
 
 * [Bell States](notebooks/bell_states.ipynb)
 * [GHZ States](notebooks/ghz_staates.ipynb)
-* [W States](notebooks/ghz_w_staates.ipynb)
+* [W States](notebooks/ghz_w_states.ipynb)
 * [Density Matrix](notebooks/density_matrix.ipynb)
 
-## Entanglement in Actions
+## Quantum Algorithms
 
 * [Teleportation](notebooks/teleportation.ipynb)
 * [Superdense Coding](notebooks/superdense_coding.ipynb)
