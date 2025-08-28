@@ -22,6 +22,10 @@ This repository contains small experiments and implementations of foundational q
 * [Superdense Coding](notebooks/superdense_coding.ipynb)
 * [CHSH Game](notebooks/chsh_game.ipynb)
 
+## Applications
+
+* [Portfolio Optimization](notebooks/portfolio_optimization.ipynb)
+
 ## Installation (If you want to run the notebooks)
 
 ```bash
